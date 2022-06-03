@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Restaurant-ReactApp/static/css/main.7643bc87.css",
-    "main.js": "/Restaurant-ReactApp/static/js/main.8c4bba84.js",
+    "main.css": "/Restaurant-ReactApp/static/css/main.1cec9b2a.css",
+    "main.js": "/Restaurant-ReactApp/static/js/main.ac57f829.js",
     "static/js/787.aab8bd84.chunk.js": "/Restaurant-ReactApp/static/js/787.aab8bd84.chunk.js",
     "static/media/poto1.jpg": "/Restaurant-ReactApp/static/media/poto1.934acfc034bfb67f7ef4.jpg",
     "static/media/poto2.jpg": "/Restaurant-ReactApp/static/media/poto2.f2b1756b68867405a31b.jpg",
@@ -11,12 +11,12 @@
     "static/media/bin.png": "/Restaurant-ReactApp/static/media/bin.a6fd29509719f079bfd7.png",
     "static/media/checkout.png": "/Restaurant-ReactApp/static/media/checkout.ce0d73c52a965feb14d5.png",
     "index.html": "/Restaurant-ReactApp/index.html",
-    "main.7643bc87.css.map": "/Restaurant-ReactApp/static/css/main.7643bc87.css.map",
-    "main.8c4bba84.js.map": "/Restaurant-ReactApp/static/js/main.8c4bba84.js.map",
+    "main.1cec9b2a.css.map": "/Restaurant-ReactApp/static/css/main.1cec9b2a.css.map",
+    "main.ac57f829.js.map": "/Restaurant-ReactApp/static/js/main.ac57f829.js.map",
     "787.aab8bd84.chunk.js.map": "/Restaurant-ReactApp/static/js/787.aab8bd84.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7643bc87.css",
-    "static/js/main.8c4bba84.js"
+    "static/css/main.1cec9b2a.css",
+    "static/js/main.ac57f829.js"
   ]
 }
